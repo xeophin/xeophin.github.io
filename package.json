@@ -18,7 +18,6 @@
   "homepage": "https://github.com/xeophin/xeophin.github.io#readme",
   "private": true,
   "dependencies": {
-    "npm": "^6.2.0",
     "semantic-ui": "^2.3.3"
   }
 }
