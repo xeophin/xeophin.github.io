@@ -16,8 +16,5 @@
     "url": "https://github.com/xeophin/xeophin.github.io/issues"
   },
   "homepage": "https://github.com/xeophin/xeophin.github.io#readme",
-  "private": true,
-  "dependencies": {
-    "semantic-ui": "^2.3.3"
-  }
+  "private": true
 }
